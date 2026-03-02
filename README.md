@@ -43,5 +43,5 @@ I enjoy creating responsive web applications and developing games more than anyt
   -Writing clean, maintainable code
   -Learning modern development practices
 
-📂 Projects
-  -I'm currnetnly working on a project called Astaron it's a website that uses AI featuers to help students with their studies as generting simplified versions of school documents and generating flash cards on the important notes and also generating quizes so the students can see their mistakes and correct them...
+📂 Projects:
+I'm currnetnly working on a project called Astaron it's a website that uses AI featuers to help students with their studies as generting simplified versions of school documents and generating flash cards on the important notes and also generating quizes so the students can see their mistakes and correct them...
