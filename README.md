@@ -1,6 +1,6 @@
 🚀 Frontend Developer | Game Developer | Tech Enthusiast
 
-👋 About Me
+	👋 About Me
 
 Hi, I'm Ahmed Safy Aldean Hafiz, a 21-year-old developer passionate about technology and building interactive digital experiences.
 I specialize in:
@@ -15,10 +15,10 @@ I enjoy creating responsive web applications and developing games more than anyt
 
 -🛠 Tech Stack:
 
-💻Frontend:
+	💻Frontend:
 
   -HTML
-  
+
   -CSS
   
   -JavaScript
@@ -27,27 +27,27 @@ I enjoy creating responsive web applications and developing games more than anyt
   
   -Redux
 
-🔧Backend:
+	🔧Backend:
 
   -Node.js
   
   -Express.js
 
-🗄 Database:
+	🗄 Database:
 
   -MongoDB
 
-🎮 Game Development:
+	🎮 Game Development:
 
   -Unity (2D & 3D)
 
-🎨 Design & Animation:
+🎨**Design & Animation**:
 
   -Blender (3D)
   
   -Moho (2D)
 
-👨‍💻 Programming Languages:
+	👨‍💻 Programming Languages:
 
   -C++
   
@@ -55,7 +55,7 @@ I enjoy creating responsive web applications and developing games more than anyt
   
   -JavaScript
 
-📌 What I Focus On:
+	📌 What I Focus On:
 
   -Building responsive and interactive web applications
   
@@ -65,6 +65,6 @@ I enjoy creating responsive web applications and developing games more than anyt
   
   -Learning modern development practices
 
-📂 Projects:
+	📂 Projects:
 
 I'm currnetnly working on a project called Astaron it's a website that uses AI featuers to help students with their studies as generting simplified versions of school documents and generating flash cards on the important notes and also generating quizes so the students can see their mistakes and correct them...
