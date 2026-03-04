@@ -2,7 +2,7 @@
 
 	👋 About Me
 
-Hi, I'm Ahmed Safy Aldean Hafiz, a 21-year-old developer passionate about technology and building interactive digital experiences.
+Hi, I'm Ahmed Safy Aldean Hafiz, A developer passionate about technology and building interactive digital experiences.
 I specialize in:
 
   -🎮 Game Development
