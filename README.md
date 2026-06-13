@@ -1,4 +1,4 @@
-🚀 Frontend Developer | Game Developer | Tech Enthusiast
+🚀 Fullstack Developer | Game Developer | Tech Enthusiast
 
 	👋 About Me
 
