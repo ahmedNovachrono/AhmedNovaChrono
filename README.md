@@ -7,7 +7,7 @@ I specialize in:
 
   -🎮 Game Development
   
-  -🌐 Frontend Web Development
+  -🌐 Fullstack Web Development
   
   -🎨 Basic 2D & 3D Animation
 
